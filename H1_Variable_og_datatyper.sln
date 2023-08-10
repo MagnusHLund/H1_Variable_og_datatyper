@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "H1_Variable_og_datatyper", "H1_Variable_og_datatyper\H1_Variable_og_datatyper.csproj", "{BB269B9C-2822-485C-9E94-21FF4E118C52}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB269B9C-2822-485C-9E94-21FF4E118C52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB269B9C-2822-485C-9E94-21FF4E118C52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB269B9C-2822-485C-9E94-21FF4E118C52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB269B9C-2822-485C-9E94-21FF4E118C52}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EBE471C4-FECC-4553-9835-9340DC8E4054}
+	EndGlobalSection
+EndGlobal
